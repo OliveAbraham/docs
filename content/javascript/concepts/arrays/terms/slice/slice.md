@@ -82,7 +82,7 @@ const weekDays = [
 const outOutOffice = weekDays.slice(-6, -3);
 
 console.log(outOutOffice);
-// Output: ['Tuesday', 'Wednesday', 'Thursday']
+// Output: ['Tuesday', 'Wednesday', 'Friday']
 ```
 
 ### One Argument
